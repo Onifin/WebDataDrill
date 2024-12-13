@@ -1,0 +1,5 @@
+venv
+.env
+images
+extracted_text.pdf
+extracted_text.txt

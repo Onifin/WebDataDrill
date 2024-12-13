@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+fpdf
+pillow
+python-dotenv
+google-generativeai
